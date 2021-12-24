@@ -18,6 +18,8 @@ You can do this with: `haxelib install linc_luajit` on a Command prompt/PowerShe
 * DMillion - Charter
 * Bruhba - Sounds
 * Yoshibobby - Art
+* Polarin - Playtesting
+* Wixx - Playtesting
 
 ### Special Thanks
 * Keoiki - Note Splash Animations
