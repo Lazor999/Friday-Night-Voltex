@@ -11,6 +11,13 @@ You can do this with: `haxelib install linc_luajit` on a Command prompt/PowerShe
 ## Credits:
 * Shadow Mario - Coding
 * RiverOaken - Arts and Animations
+* Combro - Project lead, charter
+* K.M.D. - Main coder
+* Lazorical - Asset manager / Engine fixer
+* Seb - Charter
+* DMillion - Charter
+* Bruhba - Sounds
+* Yoshibobby - Art
 
 ### Special Thanks
 * Keoiki - Note Splash Animations
