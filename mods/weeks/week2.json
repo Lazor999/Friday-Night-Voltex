@@ -1,0 +1,30 @@
+{
+	"storyName": "SDVX Extra",
+	"hideFreeplay": true,
+	"weekBackground": "school",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week1",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"fin4le",
+			"mom",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "SDVX Extra"
+}

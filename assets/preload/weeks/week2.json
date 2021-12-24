@@ -1,0 +1,30 @@
+{
+	"storyName": "Fullcombro week",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"fin4le",
+			"mom",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Fullcombro week"
+}
